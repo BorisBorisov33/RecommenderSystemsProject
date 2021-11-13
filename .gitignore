@@ -1,1 +1,4 @@
 .csv
+.vscode
+/venv/
+.env
